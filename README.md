@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/708706082.svg)](https://zenodo.org/doi/10.5281/zenodo.10628204)
+
 # *Gryllus longicercus* structural and functional annotation.
 
 *Gryllus longicercus* is a New World cricket living in rocky landscapes of deserts in western USA and Mexico. Here we present a notebook that contains 13 key steps of analysis for: <insert_doi>
